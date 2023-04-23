@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UIdem</string>
+    <string name="textview">Display</string>
+    <string name="button">左</string>
+    <string name="button2">右</string>
+    <string name="switch2">開關</string>
+    <string name="input1">0</string>
+    <string name="button3">確定</string>
+    <string name="editText">請輸入數值</string>
+    <string name="radiobutton1">李多惠</string>
+    <string name="radiobutton2">林襄</string>
+    <string name="imageView1">image</string>
+    <string name="CheckBox1">中文</string>
+    <string name="CheckBox2">數學</string>
+    <string name="CheckBox3">物理</string>
+    <string name="startB">3</string>
+</resources>
